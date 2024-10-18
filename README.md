@@ -7,7 +7,7 @@ The Cash Register Application for iOS allows users to manage product purchases, 
 - Build and run the app on a simulator or physical device.
 
 # Demo
-A video demonstrating the app, its features, and input validation can be found here: [Demo]()
+A video demonstrating the app, its features, and input validation can be found here: [Demo](https://humberital-my.sharepoint.com/:v:/g/personal/n01605453_humber_ca/EUMyS52aNCpAiqOWOOcShfABogIN2MEq0TePv7XCBYBKpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mlikcT)
 
 # Screenshots
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
